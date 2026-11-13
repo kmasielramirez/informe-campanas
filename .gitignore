@@ -1,0 +1,4 @@
+# Nunca subir la clave de la IA ni el entorno de Python
+.env
+.venv/
+__pycache__/
